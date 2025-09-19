@@ -11,6 +11,7 @@ Los usuarios pueden ingresar nombres de amigos en una lista y luego realizar un 
 - **Sorteo aleatorio**: Al presionar "Sortear Amigo", se selecciona aleatoriamente uno de los nombres ingresados y se muestra el resultado en pantalla.  
 
 ### Pantalla principal
-![Pantalla principal](assets/Pantalla-principal.png)
+![Pantalla principal](challenge-amigo-secreto_esp-main/assets/Pantalla-principal.png)
+
 
 
